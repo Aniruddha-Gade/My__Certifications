@@ -5,7 +5,8 @@
 
 **Verify This Certificate at** 🎉 https://coursera.org/share/a3c9db70ab0449785df931c89f5a45c3
 
-![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/My__Certifications/main/Meta%20Front-End%20Developer%20Professional%20Certificate/Certifications/Meta%20Front-End%20Developer%20Professional%20Certificate.jpg)
+
+![Alt Text](https://github.com/Aniruddha-Gade/My__Certifications/blob/main/Meta%20React%20Native/Meta%20React%20Native%20Specialization%20Certificate.jpg)
 
 
 ## Meta React Native Specialization Certificate 📜📱 <br/>
@@ -35,5 +36,5 @@ This comprehensive program has equipped me with invaluable skills in mobile app 
 I am immensely grateful for the effort and expertise put into designing this specialization. It has been an enriching experience, and I am excited to apply these newfound skills in my future projects.<br/>
 
 
-
+ <br/>
 🙏 Thank you once again for this invaluable opportunity. <br/>
